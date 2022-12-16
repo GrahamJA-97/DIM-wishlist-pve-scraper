@@ -1,0 +1,19 @@
+title: Something
+description: something
+
+// Mechabre (PvE first-choice roll)
+// Fluted Barrel, (Appended Mag, Flared Magwell), Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for burst damage against Majors. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Direct competitor to Occluded Finality, but with a much more reasonable 45 Zoom. You don't really need to worry about range, so look no further than Fluted Barrel to boost Handling and Stability. It's difficult to get to five in the mag to make Triple Tap proc twice, so go for Appended Mag instead to add an extra round, or Flared Magwell for Reload Speed and Stability boosts. In the first trait column, Auto-Loading Holster lets you swap to another weapon to keep DPS up, and in the second column, Vorpal Weapon adds 15% damage against Majors, Bosses and vehicles. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB|tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1280894514&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=1280894514&perks=1840239774,3230963543,3300816228,1546637391
+
+
+// BrayTech Werewolf (PvP first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For duelling, you don't really need to look further than Dynamic Sway Reduction and Tap the Trigger which together add stability and accuracy through your volley. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1359896290,1890422124
