@@ -1,8 +1,1 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-
-/.idea/
-
-# python / pycharm
-*/__pycache__
+/java/out/
