@@ -17,3 +17,9 @@ dimwishlist:item=2869466318&perks=1482024992,1885400500,1359896290,1890422124
 dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1890422124
 dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1890422124
 dimwishlist:item=2869466318&perks=3250034553,1885400500,1359896290,1890422124
+
+// Mechabre (PvE first-choice roll)
+// Fluted Barrel, (Appended Mag, Flared Magwell), Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for burst damage against Majors. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Direct competitor to Occluded Finality, but with a much more reasonable 45 Zoom. You don't really need to worry about range, so look no further than Fluted Barrel to boost Handling and Stability. It's difficult to get to five in the mag to make Triple Tap proc twice, so go for Appended Mag instead to add an extra round, or Flared Magwell for Reload Speed and Stability boosts. In the first trait column, Auto-Loading Holster lets you swap to another weapon to keep DPS up, and in the second column, Vorpal Weapon adds 15% damage against Majors, Bosses and vehicles. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB|tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1280894514&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=1280894514&perks=1840239774,3230963543,3300816228,1546637391
