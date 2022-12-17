@@ -2,6 +2,7 @@
 /shelf/
 /workspace.xml
 
+/.idea/
+
 # python / pycharm
-.idea
 */__pycache__
