@@ -24,7 +24,7 @@ def full_list(response):
     output_file.close()
 
 def filtered_result(response):
-    output_file = open(PATH + "filtered_result.txt", "w")
+    output_file = open(PATH + "voltron-pve-filter.txt", "w")
     found_pvp = False
 
     for line in response.iter_lines():
