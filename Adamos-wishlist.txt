@@ -2,5 +2,5 @@ title: Adamos Special Sauce
 Description: Curated rolls by THE Adamos himself
 
 // Mountaintop
-// notes: pve rolls
+//notes: pve rolls
 dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
