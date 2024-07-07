@@ -38,3 +38,7 @@ dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=2328923181&perks=3523296417,2109543898
 dimwishlist:item=2328923181&perks=3523296417,831391274
 dimwishlist:item=2328923181&perks=691659142,4082225868
+
+// Claws of the Wolf
+// notes: Base perk combo
+dimwishlist:item=1505862304&perks=776531651,2048641572
