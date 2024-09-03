@@ -17,7 +17,7 @@ def filter_pvp_blocks(url, output_file):
 
     for block in blocks:
         # Skip blocks that contain "PvP" (case-insensitive)
-        if re.search(r'pvp', block, re.IGNORECASE):
+        if re.search(r'pvp', block, re.IGNORECASE) and not re.search(r'pve', block, re.IGNORECASE):
             continue
 
         # Add the cleaned block to the filtered list
