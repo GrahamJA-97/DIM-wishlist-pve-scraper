@@ -45,8 +45,8 @@ def filter_pvp_blocks(url, output_file):
     cleaned_data = '\n\n'.join(filtered_blocks).strip()
 
     # Custom title and description lines to add to the output file
-    custom_lines = "title:This is a filtered down version of voltron.txt, a compiled collection of god/recommended rolls from top community minds.\n" + \
-                   "description:This has been filtered down to remove duplicate rolls and rip out any PVP specific rolls, updated when I think to and dependent on its source (voltron.txt).\n"
+    custom_lines = "title:Kilo's Voltron (PvE only)\n" + \
+                   "description:This is a filtered down version of voltron.txt, a compiled collection of god/recommended rolls from top community minds. It has been filtered down to remove duplicate rolls and rip out any PVP specific rolls, updated when I think to and dependent on its source (voltron.txt).\n"
 
     # Write to the output file with custom lines at the top
     with open(output_file, 'w') as outfile:
